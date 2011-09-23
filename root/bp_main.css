@@ -1,0 +1,27 @@
+       html { 
+           width: 100%;
+           background-color: #999999;
+       }
+
+       body { 
+           width: 988px;
+           background-color: #2b699a;
+           margin: 0px auto;
+			border-width:thin;
+			
+       }
+      
+	#menu{
+		top-padding:3px;
+		bottom-padding:3px;
+	}
+ 
+       #content { 
+           width: 80%;
+           margin: 0px auto;    
+           float:none;
+		padding:10px;
+       }
+#text{
+	padding-top=5px
+}
