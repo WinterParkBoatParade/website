@@ -1,7 +1,7 @@
        html { 
            width: 100%;
            background-color: #999999;
-		font:white;
+		color:white;
        }
 
        body { 
@@ -9,7 +9,6 @@
            background-color: #2b699a;
            margin: 0px auto;
 			border-width:thin;
-			font: white;
        }
       
 	#menu{
